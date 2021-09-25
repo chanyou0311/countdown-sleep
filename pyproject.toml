@@ -1,7 +1,12 @@
 [tool.poetry]
 name = "countdown-sleep"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+readme = "README.md"
+description = "Sleep and print countdown."
+license = "NYSL"
+include = ["CHANGELOG.md"]
+homepage = "https://github.com/chanyou0311/countdown-sleep"
+repository = "https://github.com/chanyou0311/countdown-sleep"
 authors = ["chanyou0311 <chanyou0311@gmail.com>"]
 
 [tool.poetry.dependencies]
