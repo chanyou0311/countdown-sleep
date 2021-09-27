@@ -2,6 +2,8 @@
 
 Sleep and print countdown.
 
+![demo.gif](demo.gif)
+
 ## Installation
 
 ```
